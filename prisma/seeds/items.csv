@@ -1,0 +1,6 @@
+id,name,price,imageUrl,category,type
+1,Product 1,100,mock-1.jpg,Trousers,Men
+2,Product 2,200,mock-2.jpg,Shorts,Men
+3,Product 3,300,mock-3.jpg,Shorts,Men
+4,Product 4,400,mock-4.jpg,Shorts,Men
+5,Product 5,500,mock-5.jpg,Sweatshirts,Men
